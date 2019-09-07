@@ -278,5 +278,8 @@ CDN牛逼的地方不只是在你访问时能缓存，你身边的某个人访�
 	<img src=".github/speed-up.jpg"/>
 </p>
 
-祖国河山一片绿，加速效果还是非常明显的。
+祖国河山一片绿，加速效果还是非常明显的。你还可以从控制台看到访问量和CDN的加速效果:
 
+<p align="center">
+	<img src=".github/cdn.jpg"/>
+</p>
