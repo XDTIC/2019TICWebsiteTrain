@@ -248,9 +248,7 @@ CDN牛逼的地方不只是在你访问时能缓存，你身边的某个人访�
 
 说了一大圈，我们终于要回到CDN了。
 
-首先，我们需要
-
-打开CloudFlare，进入控制台：
+首先，我们需要打开CloudFlare，进入控制台：
 
 <p align="center">
 	<img src=".github/cloudflare-1.jpg"/>
@@ -280,5 +278,5 @@ CDN牛逼的地方不只是在你访问时能缓存，你身边的某个人访�
 	<img src=".github/speed-up.jpg"/>
 </p>
 
-加速效果还是非常明显的。
+祖国河山一片绿，加速效果还是非常明显的。
 
